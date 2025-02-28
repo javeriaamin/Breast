@@ -4,7 +4,7 @@
 This project focuses on **breast cancer detection** using:
 - **DeepLabV3+** with an **Xception** backbone for ultrasound image segmentation.
 - **Quantum Computing** with a **4-qubit quantum circuit** for breast malignancy classification.
-- **TensorFlow and Qiskit** for model training and quantum processing.
+- **TensorFlow and Qiskit** for model training and quantum processing
 
 ## Steps to Implement
 
