@@ -1,4 +1,3 @@
-# Breast microscopic cancer segmentation and classification using unique 4-qubit-quantum model
 
 ## Introduction
 This project focuses on **breast cancer detection** using:
